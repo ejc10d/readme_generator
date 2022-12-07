@@ -56,12 +56,14 @@ function generateMarkdown(data) {
   I'd like to thank the following people for helping me with this project: ${data.credits}
   
   ## Contributing <a href="#contributing"></a>
-  If you'd like to contribute please email: ${data.contribute}
+  If you'd like to contribute please email: ${data.email}
 
   ## Tests <a href="#tests"></a>
+  Please follow the following test instructions: ${data.test}
+  If you test this project and find it broken please report that to ${data.email}.
 
   ## Questions <a href="#questions"></a>
-  If you have questions about this application please contact ${data.contribute}. <br/>
+  If you have questions about this application please contact ${data.email}. <br/>
   Please view my [GitHub](https://github.com/${data.gitHub}) if you have other questions.
 
   ## License <a href="#license"></a>
