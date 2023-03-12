@@ -7,8 +7,9 @@
   3. [Usage](#usage)
   4. [Contributing](#contributing)
   5. [Tests](#tests)
-  6. [Questions](#questions)
-  7. [License](#license)
+  6. [Link](#link)
+  7. [Questions](#questions)
+  8. [License](#license)
 
   ## Description <a href="#description"></a>
   Here is a brief description of this project: This is a special project for my Coding Bootcamp at UCF. 
@@ -25,6 +26,9 @@
   ## Tests <a href="#tests"></a>
   Please follow the following test instructions: Test this project before using. 
   If you test this project and find it broken please report that to ejc10d@my.fsu.edu.
+
+  ## Link <a href='#link'></a>
+  Here is a [link](https://www.youtube.com/watch?v=1q8UdzCTYxo) to the walkthrough video.
 
   ## Questions <a href="#questions"></a>
   If you have questions about this application please contact ejc10d@my.fsu.edu. <br/>
